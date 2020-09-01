@@ -83,13 +83,3 @@ Refer to the [imbalanced-learn](https://imbalanced-learn.readthedocs.io/en/stabl
 For the ensemble learners, use 100 estimators for both models.
 
 - - -
-
-### Submission
-
-* Create Jupyter notebooks for the homework and host the notebooks on GitHub.
-* Include a markdown that summarizes your homework and include this report in your GitHub repository.
-* Submit the link to your GitHub project to Bootcamp Spot.
-
-
-
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
